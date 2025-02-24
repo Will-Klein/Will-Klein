@@ -9,6 +9,7 @@ Me chamo William de Oliveira Klein, tenho 19 anos e sou natural do Rio Grande do
 
 ---
 
+
 ### Linguagens e Tecnologias:
 
 <img 
@@ -43,3 +44,10 @@ Me chamo William de Oliveira Klein, tenho 19 anos e sou natural do Rio Grande do
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F5EC77&size=20&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Computer+Technician;:)">
+  </a>
+</p>
+
