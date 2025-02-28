@@ -52,9 +52,17 @@ My name is William de Oliveira Klein, i am 19 years old, and i am from Rio Grand
     align="left" 
     alt="Oracle" 
     title="Oracle"
-    width="30px" 
+    width="38px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="38px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
 <img 
     align="left" 
@@ -64,6 +72,7 @@ My name is William de Oliveira Klein, i am 19 years old, and i am from Rio Grand
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
 />
+
 
 <br/>
 <p align="center">
