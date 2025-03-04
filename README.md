@@ -64,14 +64,7 @@ My name is William de Oliveira Klein, i am 19 years old, and i am from Rio Grand
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
-<img 
-    align="left" 
-    alt="Notion" 
-    title="Notion"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
-/>
+
 
 
 <br/>
