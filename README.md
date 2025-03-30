@@ -8,7 +8,7 @@
 
 My name is William de Oliveira Klein, i am 19 years old, and i am from Rio Grande do Sul, Brazil. I finished high school integrated with Computer Technician at IFFar, where i knew that computing is my path. To deepen my knowledge in the field, i chose software development (full-stack). Currently, i am pursuing a degree in Software Engineering at PUCRS. Therefore, i can say that i am a developer with a strong foundation in logic and problem-solving, always striving to improve and apply efficient and integrated solutions using agile methodologies.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-de-oliveira-klein-9957872a3/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamoklein/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wll.kln/)
 
 ---
