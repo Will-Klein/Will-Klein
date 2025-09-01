@@ -27,11 +27,11 @@ My name is William de Oliveira Klein, i am 19 years old, and i am from Rio Grand
 
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="NestJS" 
+    title="NestJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"          
 />
 
 <img 
@@ -59,6 +59,16 @@ My name is William de Oliveira Klein, i am 19 years old, and i am from Rio Grand
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>      
+
 <img 
     align="left" 
     alt="Git" 
@@ -67,6 +77,16 @@ My name is William de Oliveira Klein, i am 19 years old, and i am from Rio Grand
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
 <img 
     align="left" 
     alt="Oracle" 
@@ -83,6 +103,15 @@ My name is William de Oliveira Klein, i am 19 years old, and i am from Rio Grand
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="38px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
+/>
+          
 
 
 
